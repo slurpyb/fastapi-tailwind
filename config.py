@@ -1,0 +1,5 @@
+PORT = 5400
+BIND = '0.0.0.0'
+WORKERS = 1
+RELOAD = False
+DEBUG = True
